@@ -1,0 +1,4 @@
+call_parentheses = "None"
+quote_style = "ForceSingle"
+indent_width = 2
+indent_type = "Spaces"
