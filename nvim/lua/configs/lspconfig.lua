@@ -23,6 +23,7 @@ M.servers = {
   },
   ['html'] = {},
   ['tailwindcss'] = {},
+  ['ts_ls'] = {},
 }
 
 M.install_ignore = {}
